@@ -7,15 +7,14 @@ This repository is a **public showcase** of the project’s purpose, features, a
 ---
 
 ## 🌟 Project Purpose
-Reduce accessibility barriers for disabled people by offering digital tools that support navigation and accessibility in urban environments.
-
+Empower people with disabilities, older adults, and other mobility-challenged individuals by providing digital tools that make navigating urban environments easier. The project aims to reduce accessibility barriers and offer reliable information about the accessibility of public spaces, buildings, and services.
 ---
 
 ## 🚀 Features
-- Interactive maps powered by **OpenLayers**
-- Accessibility-focused geospatial tools
-- Inclusive design principles (in progress)
-- Continuous UI/UX improvements based on user feedback
+- Interactive maps powered by OpenLayers, highlighting accessible routes and locations.
+- Users can view accessibility ratings, photos, and reviews for markets, restaurants, buildings, and other points of interest.
+- Designed for users with a wide range of abilities, including mobility, visual, or cognitive impairments, as well as older adults and pregnant individuals. (in progress)
+- Continuous UI/UX improvements informed by user reviews and accessibility reports.
 
 ---
 
@@ -23,29 +22,11 @@ Reduce accessibility barriers for disabled people by offering digital tools that
 - **Frontend:** React, TypeScript, Redux, OpenLayers
 - **Backend:** Node.js, Express.js
 - **Database:** PostgreSQL
-- **Deployment:** https://engelsiz.ankageo.com
 
 ---
 
 ## 🌍 Live Project
 **Visit:** https://engelsiz.ankageo.com
-
----
-
-## 📸 Screenshots
-Add screenshots to the `/assets` folder and reference them here, for example:
-```
-![Home Page](assets/home.png)
-![Map View](assets/map.png)
-```
-
----
-
-## 📅 Roadmap (Public)
-- [ ] Improve UI/UX and accessibility compliance (WCAG)
-- [ ] Add search and filter for accessibility points
-- [ ] Multi-language support (TR/EN/AR)
-- [ ] Feedback module for user submissions
 
 ---
 
