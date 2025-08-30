@@ -8,6 +8,7 @@ This repository is a **public showcase** of the project’s purpose, features, a
 
 ## 🌟 Project Purpose
 Empower people with disabilities, older adults, and other mobility-challenged individuals by providing digital tools that make navigating urban environments easier. The project aims to reduce accessibility barriers and offer reliable information about the accessibility of public spaces, buildings, and services.
+
 ---
 
 ## 🚀 Features
