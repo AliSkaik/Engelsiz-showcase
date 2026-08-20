@@ -27,12 +27,7 @@ Empower people with disabilities, older adults, and other mobility-challenged in
 ---
 
 ## 🌍 Live Project
-**Visit:** https://engelsiz.ankageo.com
-
----
-
-## 🤝 Acknowledgements
-Developed by **AnkaGeo** with contributions from the community and stakeholders in accessibility.
+**Visit:** https://engelsizulasim.org
 
 ---
 
